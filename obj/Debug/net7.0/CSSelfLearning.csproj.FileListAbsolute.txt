@@ -1,0 +1,15 @@
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\bin\Debug\net7.0\CSSelfLearning.exe
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\bin\Debug\net7.0\CSSelfLearning.deps.json
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\bin\Debug\net7.0\CSSelfLearning.runtimeconfig.json
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\bin\Debug\net7.0\CSSelfLearning.dll
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\bin\Debug\net7.0\CSSelfLearning.pdb
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.csproj.AssemblyReference.cache
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.AssemblyInfoInputs.cache
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.AssemblyInfo.cs
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.csproj.CoreCompileInputs.cache
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.dll
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\refint\CSSelfLearning.dll
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.pdb
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\CSSelfLearning.genruntimeconfig.cache
+C:\Users\Mai\Documents\CSBasic\CSSelfLearning\obj\Debug\net7.0\ref\CSSelfLearning.dll
